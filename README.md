@@ -4,7 +4,7 @@ practicing until I cant get it wrong
 
 ## Task 1
 
-[] - remove the master branch
+[x] - remove the master branch (24JUN16)
 
 ## Task 2
 
