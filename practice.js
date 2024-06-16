@@ -14,4 +14,4 @@ function reverseString(string) {
   return backwards.join('');
 }
 
-reverseString('hello my name is john');
+reverseString('hello my name is Albedo...');
